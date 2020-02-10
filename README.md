@@ -1,4 +1,4 @@
-# Spring 4 MVC Example (Java Configuration) + Maven Test
+# Spring 4 MVC Example (Java Configuration) + Maven Test added plugin
 Template example for Spring 4 MVC + JSP View with pure Java Configuration (no XML), using Maven build tool.
 
 
